@@ -1,6 +1,7 @@
 ## Dataset for grasping objects
 Hand and finger motion tracking data for 29 adults. Three different experiments (Tasks) were conducted as detailed below. In all three experiments, users should reach the objects and then perform an action.
 Each participant tries the experiment in two trials. Objects are located in one of two positions, 30 cm to the right or left side of the participant.
+These experiments were conducted by Dimitar Valkov.
 
 ## Structure
 The dataset has the following structure:
