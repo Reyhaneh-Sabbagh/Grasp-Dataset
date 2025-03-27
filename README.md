@@ -102,3 +102,4 @@ We used a right-handed coordinate system with the x-axis pointing upwards, the y
 | `S12`  | *(do not use)* Stylus                                 |
 
 
+[![DOI](https://zenodo.org/badge/955882786.svg)](https://doi.org/10.5281/zenodo.15096149)
